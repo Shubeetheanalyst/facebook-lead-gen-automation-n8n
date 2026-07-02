@@ -6,7 +6,6 @@ Built by **Muhammad Sohaib** — (https://shubeetheanalyst.github.io/)
 🔗 Portfolio: [shubeetheanalyst.github.io](https://shubeetheanalyst.github.io/)
 ⭐ 5-Star Rated on Fiverr: [fiverr.com/s/rEWdoK0](https://www.fiverr.com/s/rEWdoK0)
 
----
 
 ## 📽️ Demo
 ```
