@@ -14,8 +14,6 @@ Built by **Muhammad Sohaib** — (https://shubeetheanalyst.github.io/)
 
 ```
 
----
-
 ## 🧠 What This Solves
 
 Freelancers and agencies lose hours every week manually scrolling Facebook groups, searching for people who need automation, AI, or workflow help. This system removes that entirely — it finds the leads, qualifies them, and drafts the outreach, so the only human step left is hitting "send."
