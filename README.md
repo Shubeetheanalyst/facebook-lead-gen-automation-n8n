@@ -8,10 +8,9 @@ Built by **Muhammad Sohaib** — (https://shubeetheanalyst.github.io/)
 
 
 ## 📽️ Demo
-```
+
 <img width="1606" height="663" alt="FB_Lead_Gen" src="https://github.com/user-attachments/assets/7fc55251-34ed-4c61-8995-8ecb11533e2d" />
 
-```
 
 ## 🧠 What This Solves
 
